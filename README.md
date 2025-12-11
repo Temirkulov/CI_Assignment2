@@ -37,7 +37,3 @@ The implemented feedforward neural network consists of:
 
 ---
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python main.py
